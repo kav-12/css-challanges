@@ -1,0 +1,20 @@
+.container{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    background-color:skyblue;
+    color: white;
+    font-size: 16px;
+  padding: 16px 30px;
+   text-align: center;
+}
+.badge{
+    position: absolute;
+    top: -8px;
+    right: -8px;
+    
+   
+   
+    
+
+}
