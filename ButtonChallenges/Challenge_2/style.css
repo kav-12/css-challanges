@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+    margin: 20px 10px 10px;
+    text-align: center;
+    font-family: sans-serif;
+
+}
+.div__btn{
+    text-align: center;
+    margin-top: 350px;
+    
+    
+}
+.btn{
+    background: black;
+    color: white;
+     -webkit-box-shadow: 0 0 10px #F8A50E;
+       -moz-box-shadow: 0 0 10px #F8A50E;
+            box-shadow: 0 0 10px #F8A50E;
+
+            -webkit-transition: box-shadow .4s ease;
+       -moz-transition: box-shadow .4s ease;
+        -ms-transition: box-shadow .4s ease;
+         -o-transition: box-shadow .4s ease;
+            transition: box-shadow .4s ease;
+}
+
+.btn:hover {
+    -webkit-box-shadow: 0 0 10px red;
+       -moz-box-shadow: 0 0 10px red;
+            box-shadow: 0 0 0 10px red;
+}
