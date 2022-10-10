@@ -1,18 +1,28 @@
-.container{
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    background-color:skyblue;
-    color: white;
-    font-size: 16px;
-  padding: 16px 30px;
-   text-align: center;
+
+.container {
+  text-align: center;
+  margin-top: 350px;
 }
-.badge{
-    position: absolute;
-    top: -8px;
-    right: -8px;
-    
+
+.btn {
+  font-size: 20px;
+  background-color:skyblue;
+  color: white;
+  padding: 8px 20px;
+  position: relative;
+}
+.container .badge {
+  position: absolute;
+  top: -10px;
+  right: -10px;
+  width: 25px;
+  height: 25px;
+  -webkit-border-radius: 25px;
+  -moz-border-radius: 25px;
+  border-radius: 20px;
+  background: black;
+}
+  
    
    
     
