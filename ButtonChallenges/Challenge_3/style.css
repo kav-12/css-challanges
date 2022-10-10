@@ -1,0 +1,14 @@
+.btn-wrapper{
+    text-align: center;
+    margin-top: 350px;
+}
+.btn{
+    font-size: 20px;
+    background-color: blue;
+    color: white;
+    height: 70px;
+    width: 200px;
+    font-style: sans-sarif;
+    border-radius: 75px 75px
+    
+}
