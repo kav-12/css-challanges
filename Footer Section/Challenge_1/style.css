@@ -1,0 +1,48 @@
+.footer {
+    height: auto;
+    width: 100%;
+     font-weight: 100;
+    justify-content: space-between;
+    }
+    
+    .content{
+        
+float: left;
+width: 25%;
+padding: 10px;
+top
+    }
+    .services{
+        width:30.5%;
+  height:100px;
+  float:left;
+  margin:0 10px;
+    }
+    .social-media{
+        width:30.5%;
+        height:100px;
+        float:left;
+        margin:0 10px;
+        
+    }
+    .links{
+        width:20.5%;
+        height:100px;
+        float:right;
+        margin:0 10px;
+        text-align: right;
+
+    }
+    .details{
+        width:30.5%;
+        height:100px;
+        float:left;
+        margin:10 500px;
+        margin-right: 5px;
+        display:inline-block;
+        position: absolute;
+        
+    
+        
+    }
+    .
