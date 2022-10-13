@@ -1,1 +1,11 @@
 @import url("https://fonts.googleapis.com/css?family=Indie+Flower");
+
+tr{
+    background-color: #009879;
+    color: #ffffff;
+    text-align: left;
+    font-style: oblique;
+}
+#myTable{
+    caption-side: bottom;
+}

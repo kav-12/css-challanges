@@ -1,0 +1,44 @@
+html, body, #main {
+    font-size: 16px;
+    width: 100%;
+    height: 100%;
+    
+  }
+  #main{
+ 
+    overflow: auto;
+    box-sizing: border-box;
+    padding-top:2rem;
+  }
+  .nav_bar{
+    background-color:#222;
+    border:1px solid grey;
+    z-index: 1;
+   position:absolute;
+    top:50%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    box-shadow: 1px 1px 5px rgba(0,0,0,.5);
+  }
+  li>a{
+    color: #fff;
+    padding: 15px 15px;
+    outline: none;
+  }
+  .nav_bar ul li{
+    position:relative;
+  }
+    .nav_bar ul li a{
+      margin-left: 15px;
+    }
+    .nav_bar .open >li:hover:before{
+        font:normal normal normal 14px/1 FontAwesome;
+        content:'\f054';
+         width:10px;
+        height:10px;
+        position:absolute;
+        left:18%;
+        top:46%;
+        transform:translate(-50%,-50%);
+        color:#e14444;
+    }
